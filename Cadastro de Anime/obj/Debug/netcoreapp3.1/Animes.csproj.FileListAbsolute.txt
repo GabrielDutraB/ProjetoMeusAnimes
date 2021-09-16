@@ -1,0 +1,30 @@
+C:\Users\GABRIEL\Desktop\Projeto CRUD\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Animes.csprojAssemblyReference.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Animes.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Animes.AssemblyInfo.cs
+C:\Users\GABRIEL\Desktop\Projeto CRUD\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Animes.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\obj\Debug\netcoreapp3.1\Animes.csprojAssemblyReference.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\obj\Debug\netcoreapp3.1\Animes.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\obj\Debug\netcoreapp3.1\Animes.AssemblyInfo.cs
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\obj\Debug\netcoreapp3.1\Animes.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\bin\Debug\netcoreapp3.1\Animes.exe
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\bin\Debug\netcoreapp3.1\Animes.deps.json
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\bin\Debug\netcoreapp3.1\Animes.runtimeconfig.json
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\bin\Debug\netcoreapp3.1\Animes.runtimeconfig.dev.json
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\bin\Debug\netcoreapp3.1\Animes.dll
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\bin\Debug\netcoreapp3.1\Animes.pdb
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\obj\Debug\netcoreapp3.1\Animes.dll
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\obj\Debug\netcoreapp3.1\Animes.pdb
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Animeflix\obj\Debug\netcoreapp3.1\Animes.genruntimeconfig.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\bin\Debug\netcoreapp3.1\Animes.exe
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\bin\Debug\netcoreapp3.1\Animes.deps.json
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\bin\Debug\netcoreapp3.1\Animes.runtimeconfig.json
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\bin\Debug\netcoreapp3.1\Animes.runtimeconfig.dev.json
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\bin\Debug\netcoreapp3.1\Animes.dll
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\bin\Debug\netcoreapp3.1\Animes.pdb
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\obj\Debug\netcoreapp3.1\Animes.csprojAssemblyReference.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\obj\Debug\netcoreapp3.1\Animes.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\obj\Debug\netcoreapp3.1\Animes.AssemblyInfo.cs
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\obj\Debug\netcoreapp3.1\Animes.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\obj\Debug\netcoreapp3.1\Animes.dll
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\obj\Debug\netcoreapp3.1\Animes.pdb
+C:\Users\GABRIEL\Desktop\Projeto CRUD\Cadastro de Anime\obj\Debug\netcoreapp3.1\Animes.genruntimeconfig.cache
